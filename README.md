@@ -46,14 +46,14 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 `IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE TYPE:92300xxxxxx THEN YOU CAN GET YOUR SG BOT SESSION SESSION_ID ✠`
 
 
-> **1. PAIR CODE SESSION ID**
+> **A. PAIR CODE SESSION ID**
 
-<a href='https://sg-player-pair.vercel.app//' target="_blank">
+<a href='https://ali-pair-xode.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-yellow?style=for-the-badge&logo=opencv&logoColor=red'/>
 </a>
 <br> 
 
-> **2. PAIR CODE SESSION ID**
+> **B. PAIR CODE SESSION ID**
 
 <a href='https://sg-player-pair.vercel.app/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=red'/>
@@ -84,7 +84,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ### <h4 align="">2. REPLIT DEPLOY SG</h4>
 
-<a href="https://github.com/sgplayerxpo56/SG-PLAYER-MD-BOT"><img title="SG-PLAYER-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+<a href="https://github.com/sgplayerxpo56/SG-PLAYER-MD-BOT"><img title="SG-PLAYER-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=yellow&style=for-the-badge&logo=Replit"></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### <h4 align="">2. PANEL DEPLOY SG</h4>
