@@ -55,7 +55,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 > **2. PAIR CODE SESSION ID**
 
-<a href='https://sg-player-pair.vercel.app/' target="_blank">
+<a href='https://ali-pair-xode.onrender.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=red'/>
 </a>
 <br> 
