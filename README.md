@@ -4,7 +4,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ```
 ---
 
-> **CURRENT BOT VERSION ➜ `4.5.0 ⚡`**
+> **SG NEW BOT VERSION ➜ `1.2.0 ⚡`**
 ---
 
 
@@ -12,51 +12,51 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
   <p align="center">
-<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-sg-player?color=blue&style=flat-square"></a>
-<a href="https://github.com/sgplayerxpo56/SG-PLAYER-MD-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sgplayerxpo56/SG-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/sgplayerxpo56/SG-PLAYER-MD-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sgplayerxpo56/SG-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/sgplayerxpo56/SG-PLAYER-MD-BOT/"><img title="Size" src="https://img.shields.io/github/repo-size/sgplayerxpo56/SG-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/sgplayerxpo56/SG-PLAYER-MD-BOT/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-alii-raza?color=blue&style=flat-square"></a>
+<a href="https://github.com/sgplayerxpo56/SG-PLAYER-MD-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sgplayerxpo56/SG-PLAYER-MD-BOT?color=blue&style=flat-square"></a>
+<a href="https://github.com/sgplayerxpo56/SG-PLAYER-MD-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sgplayerxpo56/SG-PLAYER-MD-BOT?color=blue&style=flat-square"></a>
+<a href="https://github.com/sgplayerxpo56/SG-PLAYER-MD-BOT/"><img title="Size" src="https://img.shields.io/github/repo-size/sgplayerxpo56/SG-PLAYER-MD-BOT?style=flat-square&color=blue"></a>
+<a href="https://github.com/sgplayerxpo56/SG-PLAYER-MD-BOT/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-blue.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS FOR CHOOSING+SG-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+SG+PLAYER XHACKER" alt="" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=s+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+THANKS FOR CHOOSING+SG-PLAYER-MD;MULTI+DEVICE+WHATSAPP+BOT;POWRER BY SG PLAYER=" alt="" /></a>
   </p>
   
 --- 
 
-<a><img src='https://files.catbox.moe/cajojt.jpg'/></a>
+<a><img src='https://files.catbox.moe/tuj52t.jpg'/></a>
 
-<a><img src='https://files.catbox.moe/cajojt.jpg'/></a>
+<a><img src='
 
 ***
 
 
 
 
-### 1. FORK THIS REPOSITORY
+### 1. FORK SG PLAYER BOT REPOSITORY
 
-`FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
+`FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS SG-MD-BOT`
 
-  <a href="https://github.com/itx-sg-md/ALI-MD/fork"><img title="SG-MD" src="https://img.shields.io/badge/FORK-SG%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/sgplayerxpo56/SG-PLAYER-MD-BOT/fork"><img title="SG-PLAYER-MD" src="https://files.catbox.moe/tuj52t.jpg"></a>
   
-### 2. GET SESSION ID
-
-`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:92300xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
+### 2. GET SESSION ID OF SG PLAYER
+ 
+`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE TYPE:92300xxxxxx THEN YOU CAN GET YOUR SG BOT SESSION SESSION_ID ✠`
 
 
 > **1. PAIR CODE SESSION ID**
 
-<a href='https://ali-pair-xode.onrender.com/' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+<a href='https://sg-player-pair.vercel.app//' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-yellow?style=for-the-badge&logo=opencv&logoColor=red'/>
 </a>
 <br> 
 
 > **2. PAIR CODE SESSION ID**
 
-<a href='https://ali-pair-xode.onrender.com/' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
+<a href='https://sg-player-pair.vercel.app/' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=red'/>
 </a>
 <br> 
 
@@ -64,30 +64,30 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ---
 
-### <h2 align="">SG-MD DEPLOYMENT OPTIONS</h2>
+### <h2 align="">SG-PLAYER-MD DEPLOYMENT OPTIONS</h2>
 
 ---
 
-### <h4 align="">1. HEROKU</h4>
+### <h4 align="">1. HEROKU SG</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/sgplayerxpo56/SG-PLAYER-MD-BOT)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### <h4 align="">3. KOYEB</h4>
+### <h4 align="">3. KOYEB DEPLOYMENT SG</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="">
-<a href="https://app.koyeb.com/services/deploy?type=git&repository=sgplayerxpo56/SG-PLAYER-MD"' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a href="https://app.koyeb.com/services/deploy?type=git&repository=sgplayerxpo56/SG-PLAYER-MD-BOT"' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### <h4 align="">2. REPLIT DEPLOY</h4>
+### <h4 align="">2. REPLIT DEPLOY SG</h4>
 
-<a href="https://github.com/sgplayerxpo56/SG-PLAYER-MD-BOT"><img title="SG-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+<a href="https://github.com/sgplayerxpo56/SG-PLAYER-MD-BOT"><img title="SG-PLAYER-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### <h4 align="">2. PANEL DEPLOY</h4>
+### <h4 align="">2. PANEL DEPLOY SG</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="">
@@ -96,21 +96,21 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
   
 
 
-### <h4 align="">2. TALKDROVE FREE</h4>
+### <h4 align="">2. TALKDROVE FREE SG</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="">
 <a href='https://talkdrove.com/share-bot/11' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TalkDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### <h4 align="">4. RAILWAY</h4>
+### <h4 align="">4. RAILWAY SG</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="">
 <a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### <h4 align="">5. RENDER</h4>
+### <h4 align="">5. RENDER SG</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="">
@@ -128,37 +128,12 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <b><strong><summary align="" style="color: Yello;">EASIEST METHOD 2</summary></strong></b>
 <p style="text-align: center; font-size: 1.2em;">
  
+*❄️ Deploy SG-PLAYER-md 
 
-## <h3 align=""> HOW TO DEPLOY ON HUGGING FACE</h3>
-<h6 align-"center">
-*❄️ Deploy ali-md On Hugging Face For Free !*
 
-`Specs :`
-- v2 CPU
-- 16GB RAM
+> CREDITS SG PLAYER X HACKERSZ🎐
 
-> `Steps to deploy`
-
-`Step 1`
-1. Go to hugginface.co/join and create an account and verify your email too.
-
-`Step 2`
-1. Go to https://huggingface.co/spaces/itx-alii-raza/ALI-MD
-
-2. Tap on *three dots* _(as shown in image)_
-
-3. Tap on *duplicate space* _(as shown in image)_
-
-`Step 3`
-1. Fill your details, e.g., Session ID, Bot Name, owner number etc...
-
-2. Tap on *duplicate space shown below*
-
-```After that wait 10 seconds & your have deployed it successfuly  for free 24/7```
-
-> CREDITS PIKABOTZ🎐
-
-*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜰʀᴀɴᴋ ᴏꜰᴄ*</h6>
+*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ SG PLAYER X HACKER ᴏꜰᴄ*</h6>
 
 </details>
 
@@ -173,11 +148,11 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## 👑 PROJECT OWNER 
-HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME SG PLAYER࿐➺
+## 👑 BOT DOCER OWNER 
+HII DEARS KISI B KAM KELLYE CONNCET KARY CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME SG PLAYER X HACKER࿐➺
 
 <p align="">
-<a href='https://wa.me/+923260602960?text=*ʜɪɪ+sg+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://wa.me/+923260602960?text=*ʜɪɪ+SGPLAYER+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -189,7 +164,7 @@ STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHA
 ## 🪀 WHATSAPP GROUP
 JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
 
-[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/D7TaThwliK0F2CtiSHElq6?mode=)
+[![WhatsApp GROUP OF SG PLAYR X HACKER](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/D7TaThwliK0F2CtiSHElq6?mode=)
 
  
 
@@ -223,9 +198,9 @@ JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER 
 <br>
 
 ```
-THANK YOU TOHID, JAWAD, & YOU SUPPORTERS
+THANK YOU SG PLAYER X HACKER , & YOU SUPPORTERS
 ```
 -----
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/tuj52t.jpg'/></a>
 
 ------
